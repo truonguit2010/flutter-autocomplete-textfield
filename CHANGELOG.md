@@ -17,7 +17,7 @@ Added textInputAction.
  These can both be disabled with submitOnSuggestionTap and clearOnSubmit respectively.
 
 [1.4.1]
- Added textCapitalization option
+ Added textCapitalization option 
 
 [1.5.0]
 
